@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\bin\Debug\urlBlocker.exe.config
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\bin\Debug\urlBlocker.exe
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\bin\Debug\urlBlocker.pdb
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\obj\Debug\urlBlocker.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\obj\Debug\urlBlocker.Form1.resources
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\obj\Debug\urlBlocker.Properties.Resources.resources
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\obj\Debug\urlBlocker.csproj.GenerateResource.Cache
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\obj\Debug\urlBlocker.exe
-c:\users\user\documents\visual studio 2015\Projects\urlBlocker\urlBlocker\obj\Debug\urlBlocker.pdb
